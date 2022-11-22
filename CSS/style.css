@@ -1,0 +1,23 @@
+.label{
+    display: block;
+}
+
+.form{
+        padding: 10px;
+    border-radius: 10px;
+        border: 5px solid #e31212;
+        background-color: rgb(190, 188, 186);
+}
+
+button {
+    margin-top: 15px;
+    color:white;
+    background-color: rgb(135, 135, 225);
+    
+}
+
+.button{
+    margin-top: 15px;
+    color:rgb(0, 0, 0);
+    background-color: rgb(243, 118, 96);
+}
